@@ -15,13 +15,13 @@ This is a simple backend API built using Node.js and Express.js.
 - Express.js
 - CORS
 
+## Link
+
+Available at your primary URL https://portfolio-backend-f794.onrender.com
+
 ## Installation
 
 Clone the repository and install dependencies:
 
 ```bash
 npm install
-
-## Link
-
-https://portfolio-backend-f794.onrender.com
