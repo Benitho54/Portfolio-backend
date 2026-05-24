@@ -24,4 +24,4 @@ npm install
 
 ## Link
 
-Available at primary URL https://portfolio-backend-f794.onrender.com
+https://portfolio-backend-f794.onrender.com
